@@ -39,3 +39,14 @@ footer{padding:16px;text-align:center;color:var(--muted)}
   .grid{grid-template-columns:1fr}
   .options{grid-template-columns:1fr}
 }
+
+
+#qCompetence {
+  display: inline-block;
+  background: #e0f8eb;
+  border: 1px solid #00a67d;
+  color: #065f46;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-weight: bold;
+}

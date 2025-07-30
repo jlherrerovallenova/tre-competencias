@@ -80,7 +80,7 @@ function renderGridNav(){
 function renderQuestion(){
   const q = QUESTIONS[state.index];
   $("#qIndex").textContent = `Pregunta ${state.index+1} de ${QUESTIONS.length}`;
-  $("#qCompetence").textContent = q.competencia;
+  $("#qCompetence").textContent = "Competencia: " + q.competencia;
   $("#qText").textContent = q.texto;
 
   document.querySelectorAll(".opt").forEach(btn=>{

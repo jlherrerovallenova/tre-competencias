@@ -1,734 +1,32 @@
 [
   {
-    "id": 1,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Me responsabilizo de mis errores y actúo para corregirlos.",
+    "id": 86,
+    "competencia": "Orientación a resultados",
+    "texto": "Divido los objetivos en hitos medibles.",
     "reverse": false
   },
   {
-    "id": 2,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Cumplo plazos sin que me lo recuerden.",
+    "id": 41,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Me propongo metas retadoras pero alcanzables.",
     "reverse": false
   },
   {
-    "id": 3,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Asumo mis tareas de principio a fin sin necesidad de supervisión.",
-    "reverse": false
-  },
-  {
-    "id": 4,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Suele organizo para no depender de otros en lo esencial.",
-    "reverse": false
-  },
-  {
-    "id": 5,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Planifico mi trabajo sin esperar instrucciones constantes.",
-    "reverse": false
-  },
-  {
-    "id": 6,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Me organizo para no depender de otros en lo esencial.",
-    "reverse": false
-  },
-  {
-    "id": 7,
+    "id": 23,
     "competencia": "Responsabilidad y autonomía",
     "texto": "Necesito que me supervisen constantemente para avanzar.",
     "reverse": true
   },
   {
-    "id": 8,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Procuro cumplir plazos sin que me lo recuerden.",
-    "reverse": false
-  },
-  {
-    "id": 9,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Planifico mi trabajo sin esperar instrucciones constantes.",
-    "reverse": false
+    "id": 112,
+    "competencia": "Solución de problemas",
+    "texto": "Oculto incidencias para no generar discusiones.",
+    "reverse": true
   },
   {
     "id": 10,
     "competencia": "Responsabilidad y autonomía",
-    "texto": "Llego puntual a mis compromisos laborales.",
-    "reverse": false
-  },
-  {
-    "id": 11,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Cumplo las normas y procedimientos establecidos en mi trabajo.",
-    "reverse": false
-  },
-  {
-    "id": 12,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Pierdo la puntualidad con facilidad en mis tareas.",
-    "reverse": true
-  },
-  {
-    "id": 13,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Suelo mantener mis compromisos incluso ante dificultades.",
-    "reverse": false
-  },
-  {
-    "id": 14,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Procuro cumplir plazos sin que me lo recuerden.",
-    "reverse": false
-  },
-  {
-    "id": 15,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Asumo mis tareas de principio a fin sin necesidad de supervisión.",
-    "reverse": false
-  },
-  {
-    "id": 16,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Llego puntual a mis compromisos laborales.",
-    "reverse": false
-  },
-  {
-    "id": 17,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Llego puntual a mis compromisos laborales.",
-    "reverse": false
-  },
-  {
-    "id": 18,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Asumo mis tareas de principio a fin sin necesidad de supervisión.",
-    "reverse": false
-  },
-  {
-    "id": 19,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Cumplo las normas y procedimientos establecidos en mi trabajo.",
-    "reverse": false
-  },
-  {
-    "id": 20,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Busco excusas externas cuando algo no sale bien.",
-    "reverse": true
-  },
-  {
-    "id": 21,
-    "competencia": "Responsabilidad y autonomía",
-    "texto": "Evito tomar decisiones por miedo a equivocarme.",
-    "reverse": true
-  },
-  {
-    "id": 22,
-    "competencia": "Responsabilidad y autonomía",
     "texto": "Planifico mi trabajo sin esperar instrucciones constantes.",
-    "reverse": false
-  },
-  {
-    "id": 23,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Aprendo de cada proyecto para mejorar el siguiente.",
-    "reverse": false
-  },
-  {
-    "id": 24,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Trabajo de forma ordenada y metódica.",
-    "reverse": false
-  },
-  {
-    "id": 25,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Trabajar con método me resulta innecesario.",
-    "reverse": true
-  },
-  {
-    "id": 26,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Presto atención plena a lo que hago.",
-    "reverse": false
-  },
-  {
-    "id": 27,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Busco simplificar procesos sin perder calidad.",
-    "reverse": false
-  },
-  {
-    "id": 28,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Planifico pequeñas mejoras continuas en mi trabajo.",
-    "reverse": false
-  },
-  {
-    "id": 29,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Trabajo de forma ordenada y metódica.",
-    "reverse": false
-  },
-  {
-    "id": 30,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Dedico tiempo adecuado a encontrar buenas soluciones.",
-    "reverse": false
-  },
-  {
-    "id": 31,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Mantengo una actitud positiva ante tareas rutinarias.",
-    "reverse": false
-  },
-  {
-    "id": 32,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Busco simplificar procesos sin perder calidad.",
-    "reverse": false
-  },
-  {
-    "id": 33,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Dedico tiempo adecuado a encontrar buenas soluciones.",
-    "reverse": false
-  },
-  {
-    "id": 34,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Suele propongo metas retadoras pero alcanzables.",
-    "reverse": false
-  },
-  {
-    "id": 35,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Suele propongo metas retadoras pero alcanzables.",
-    "reverse": false
-  },
-  {
-    "id": 36,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Planifico pequeñas mejoras continuas en mi trabajo.",
-    "reverse": false
-  },
-  {
-    "id": 37,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Busco simplificar procesos sin perder calidad.",
-    "reverse": false
-  },
-  {
-    "id": 38,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Trabajar con método me resulta innecesario.",
-    "reverse": true
-  },
-  {
-    "id": 39,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Planifico pequeñas mejoras continuas en mi trabajo.",
-    "reverse": false
-  },
-  {
-    "id": 40,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Me conformo con soluciones mínimas aunque sean mejorables.",
-    "reverse": true
-  },
-  {
-    "id": 41,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Reviso lo entregado para identificar mejoras.",
-    "reverse": false
-  },
-  {
-    "id": 42,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Suelo mantener una actitud positiva ante tareas rutinarias.",
-    "reverse": false
-  },
-  {
-    "id": 43,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Presto atención plena a lo que hago.",
-    "reverse": false
-  },
-  {
-    "id": 44,
-    "competencia": "Calidad y mejora continua",
-    "texto": "Rara vez reviso lo que entrego para aprender de ello.",
-    "reverse": true
-  },
-  {
-    "id": 45,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Evito pedir ayuda aunque la necesite.",
-    "reverse": true
-  },
-  {
-    "id": 46,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Propongo iniciativas que benefician al equipo.",
-    "reverse": false
-  },
-  {
-    "id": 47,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Contribuyo a crear espacios seguros para opinar.",
-    "reverse": false
-  },
-  {
-    "id": 48,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Valoro las ideas de otros aunque difieran de las mías.",
-    "reverse": false
-  },
-  {
-    "id": 49,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Prefiero trabajar aislado y evitar reuniones.",
-    "reverse": true
-  },
-  {
-    "id": 50,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Valoro las ideas de otros aunque difieran de las mías.",
-    "reverse": false
-  },
-  {
-    "id": 51,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Comparto información relevante a tiempo con el equipo.",
-    "reverse": false
-  },
-  {
-    "id": 52,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Contribuyo a crear espacios seguros para opinar.",
-    "reverse": false
-  },
-  {
-    "id": 53,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Agradezco las contribuciones de otros al trabajo en equipo.",
-    "reverse": false
-  },
-  {
-    "id": 54,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Evito pedir ayuda aunque la necesite.",
-    "reverse": true
-  },
-  {
-    "id": 55,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Suele considero flexible con quienes discrepan de mí.",
-    "reverse": false
-  },
-  {
-    "id": 56,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Facilito la comunicación entre miembros del equipo.",
-    "reverse": false
-  },
-  {
-    "id": 57,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Agradezco las contribuciones de otros al trabajo en equipo.",
-    "reverse": false
-  },
-  {
-    "id": 58,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Me molesta que cuestionen mis ideas en el equipo.",
-    "reverse": true
-  },
-  {
-    "id": 59,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Promuevo un clima de respeto y participación.",
-    "reverse": false
-  },
-  {
-    "id": 60,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Promuevo un clima de respeto y participación.",
-    "reverse": false
-  },
-  {
-    "id": 61,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Propongo iniciativas que benefician al equipo.",
-    "reverse": false
-  },
-  {
-    "id": 62,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Propongo iniciativas que benefician al equipo.",
-    "reverse": false
-  },
-  {
-    "id": 63,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Valoro las ideas de otros aunque difieran de las mías.",
-    "reverse": false
-  },
-  {
-    "id": 64,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Agradezco las contribuciones de otros al trabajo en equipo.",
-    "reverse": false
-  },
-  {
-    "id": 65,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Facilito la comunicación entre miembros del equipo.",
-    "reverse": false
-  },
-  {
-    "id": 66,
-    "competencia": "Colaboración y cooperación",
-    "texto": "Propongo iniciativas que benefician al equipo.",
-    "reverse": false
-  },
-  {
-    "id": 67,
-    "competencia": "Orientación a resultados",
-    "texto": "Cambio de prioridades con frecuencia sin justificación.",
-    "reverse": true
-  },
-  {
-    "id": 68,
-    "competencia": "Orientación a resultados",
-    "texto": "Organizo mis tareas por orden de impacto.",
-    "reverse": false
-  },
-  {
-    "id": 69,
-    "competencia": "Orientación a resultados",
-    "texto": "Hago seguimiento del avance de los objetivos.",
-    "reverse": false
-  },
-  {
-    "id": 70,
-    "competencia": "Orientación a resultados",
-    "texto": "Suele autoexijo estándares altos en el trabajo.",
-    "reverse": false
-  },
-  {
-    "id": 71,
-    "competencia": "Orientación a resultados",
-    "texto": "Hago seguimiento del avance de los objetivos.",
-    "reverse": false
-  },
-  {
-    "id": 72,
-    "competencia": "Orientación a resultados",
-    "texto": "Establezco metas claras y realistas en el tiempo.",
-    "reverse": false
-  },
-  {
-    "id": 73,
-    "competencia": "Orientación a resultados",
-    "texto": "Prevengo retrasos identificando riesgos a tiempo.",
-    "reverse": false
-  },
-  {
-    "id": 74,
-    "competencia": "Orientación a resultados",
-    "texto": "Me cuesta medir el progreso hacia un objetivo.",
-    "reverse": true
-  },
-  {
-    "id": 75,
-    "competencia": "Orientación a resultados",
-    "texto": "Divido los objetivos en hitos medibles.",
-    "reverse": false
-  },
-  {
-    "id": 76,
-    "competencia": "Orientación a resultados",
-    "texto": "Organizo mis tareas por orden de impacto.",
-    "reverse": false
-  },
-  {
-    "id": 77,
-    "competencia": "Orientación a resultados",
-    "texto": "Organizo mis tareas por orden de impacto.",
-    "reverse": false
-  },
-  {
-    "id": 78,
-    "competencia": "Orientación a resultados",
-    "texto": "Organizo mis tareas por orden de impacto.",
-    "reverse": false
-  },
-  {
-    "id": 79,
-    "competencia": "Orientación a resultados",
-    "texto": "Organizo mis tareas por orden de impacto.",
-    "reverse": false
-  },
-  {
-    "id": 80,
-    "competencia": "Orientación a resultados",
-    "texto": "Cumplir los plazos es una prioridad para mí.",
-    "reverse": false
-  },
-  {
-    "id": 81,
-    "competencia": "Orientación a resultados",
-    "texto": "Organizo mis tareas por orden de impacto.",
-    "reverse": false
-  },
-  {
-    "id": 82,
-    "competencia": "Orientación a resultados",
-    "texto": "Divido los objetivos en hitos medibles.",
-    "reverse": false
-  },
-  {
-    "id": 83,
-    "competencia": "Orientación a resultados",
-    "texto": "Me cuesta medir el progreso hacia un objetivo.",
-    "reverse": true
-  },
-  {
-    "id": 84,
-    "competencia": "Orientación a resultados",
-    "texto": "Organizo mis tareas por orden de impacto.",
-    "reverse": false
-  },
-  {
-    "id": 85,
-    "competencia": "Orientación a resultados",
-    "texto": "Oriento mis acciones al logro del objetivo común.",
-    "reverse": false
-  },
-  {
-    "id": 86,
-    "competencia": "Orientación a resultados",
-    "texto": "Me cuesta medir el progreso hacia un objetivo.",
-    "reverse": true
-  },
-  {
-    "id": 87,
-    "competencia": "Orientación a resultados",
-    "texto": "Oriento mis acciones al logro del objetivo común.",
-    "reverse": false
-  },
-  {
-    "id": 88,
-    "competencia": "Orientación a resultados",
-    "texto": "Divido los objetivos en hitos medibles.",
-    "reverse": false
-  },
-  {
-    "id": 89,
-    "competencia": "Solución de problemas",
-    "texto": "Analizo la causa raíz antes de actuar.",
-    "reverse": false
-  },
-  {
-    "id": 90,
-    "competencia": "Solución de problemas",
-    "texto": "Identifico rápidamente a quién involucrar en la solución.",
-    "reverse": false
-  },
-  {
-    "id": 91,
-    "competencia": "Solución de problemas",
-    "texto": "Organizo reuniones cuando un problema es complejo.",
-    "reverse": false
-  },
-  {
-    "id": 92,
-    "competencia": "Solución de problemas",
-    "texto": "Verifico con datos si una solución funciona.",
-    "reverse": false
-  },
-  {
-    "id": 93,
-    "competencia": "Solución de problemas",
-    "texto": "Propongo ideas concretas cuando detecto un problema.",
-    "reverse": false
-  },
-  {
-    "id": 94,
-    "competencia": "Solución de problemas",
-    "texto": "Verifico con datos si una solución funciona.",
-    "reverse": false
-  },
-  {
-    "id": 95,
-    "competencia": "Solución de problemas",
-    "texto": "Identifico rápidamente a quién involucrar en la solución.",
-    "reverse": false
-  },
-  {
-    "id": 96,
-    "competencia": "Solución de problemas",
-    "texto": "Defino un plan de acción y lo sigo.",
-    "reverse": false
-  },
-  {
-    "id": 97,
-    "competencia": "Solución de problemas",
-    "texto": "Suele limito a señalar problemas sin plantear soluciones.",
-    "reverse": true
-  },
-  {
-    "id": 98,
-    "competencia": "Solución de problemas",
-    "texto": "Comparto soluciones con el equipo para aprender.",
-    "reverse": false
-  },
-  {
-    "id": 99,
-    "competencia": "Solución de problemas",
-    "texto": "Analizo la causa raíz antes de actuar.",
-    "reverse": false
-  },
-  {
-    "id": 100,
-    "competencia": "Solución de problemas",
-    "texto": "Comparto soluciones con el equipo para aprender.",
-    "reverse": false
-  },
-  {
-    "id": 101,
-    "competencia": "Solución de problemas",
-    "texto": "Oculto incidencias para no generar discusiones.",
-    "reverse": true
-  },
-  {
-    "id": 102,
-    "competencia": "Solución de problemas",
-    "texto": "Propongo ideas concretas cuando detecto un problema.",
-    "reverse": false
-  },
-  {
-    "id": 103,
-    "competencia": "Solución de problemas",
-    "texto": "Identifico rápidamente a quién involucrar en la solución.",
-    "reverse": false
-  },
-  {
-    "id": 104,
-    "competencia": "Solución de problemas",
-    "texto": "Identifico rápidamente a quién involucrar en la solución.",
-    "reverse": false
-  },
-  {
-    "id": 105,
-    "competencia": "Solución de problemas",
-    "texto": "Verifico con datos si una solución funciona.",
-    "reverse": false
-  },
-  {
-    "id": 106,
-    "competencia": "Solución de problemas",
-    "texto": "Defino un plan de acción y lo sigo.",
-    "reverse": false
-  },
-  {
-    "id": 107,
-    "competencia": "Solución de problemas",
-    "texto": "Evito cambiar el enfoque aunque no funcione.",
-    "reverse": true
-  },
-  {
-    "id": 108,
-    "competencia": "Solución de problemas",
-    "texto": "Oculto incidencias para no generar discusiones.",
-    "reverse": true
-  },
-  {
-    "id": 109,
-    "competencia": "Solución de problemas",
-    "texto": "Comparto soluciones con el equipo para aprender.",
-    "reverse": false
-  },
-  {
-    "id": 110,
-    "competencia": "Solución de problemas",
-    "texto": "Defino un plan de acción y lo sigo.",
-    "reverse": false
-  },
-  {
-    "id": 111,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Considero innecesario practicar lo que ya he visto.",
-    "reverse": true
-  },
-  {
-    "id": 112,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Considero innecesario practicar lo que ya he visto.",
-    "reverse": true
-  },
-  {
-    "id": 113,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Busco feedback para seguir aprendiendo.",
-    "reverse": false
-  },
-  {
-    "id": 114,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Aplico con rapidez los nuevos conocimientos a mi trabajo.",
-    "reverse": false
-  },
-  {
-    "id": 115,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Desisto si el aprendizaje requiere esfuerzo sostenido.",
-    "reverse": true
-  },
-  {
-    "id": 116,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Exploro nuevas herramientas y metodologías.",
-    "reverse": false
-  },
-  {
-    "id": 117,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Siento curiosidad por ampliar mis conocimientos.",
-    "reverse": false
-  },
-  {
-    "id": 118,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Exploro nuevas herramientas y metodologías.",
-    "reverse": false
-  },
-  {
-    "id": 119,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Mantengo la concentración ignorando distracciones.",
-    "reverse": false
-  },
-  {
-    "id": 120,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Registro mis lecciones aprendidas tras los proyectos.",
-    "reverse": false
-  },
-  {
-    "id": 121,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Practico lo aprendido para consolidarlo.",
-    "reverse": false
-  },
-  {
-    "id": 122,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Mantengo la concentración ignorando distracciones.",
     "reverse": false
   },
   {
@@ -738,159 +36,885 @@
     "reverse": false
   },
   {
-    "id": 124,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Comparto lo aprendido con el equipo.",
-    "reverse": false
-  },
-  {
-    "id": 125,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Suele planteo retos cada vez más ambiciosos.",
-    "reverse": false
-  },
-  {
-    "id": 126,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Siento curiosidad por ampliar mis conocimientos.",
-    "reverse": false
-  },
-  {
-    "id": 127,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Me motivo con objetivos de desarrollo claros.",
-    "reverse": false
-  },
-  {
-    "id": 128,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Aplico con rapidez los nuevos conocimientos a mi trabajo.",
-    "reverse": false
-  },
-  {
-    "id": 129,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Busco feedback para seguir aprendiendo.",
-    "reverse": false
-  },
-  {
-    "id": 130,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Registro mis lecciones aprendidas tras los proyectos.",
-    "reverse": false
-  },
-  {
-    "id": 131,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Siento curiosidad por ampliar mis conocimientos.",
-    "reverse": false
-  },
-  {
-    "id": 132,
-    "competencia": "Capacidad de aprendizaje",
-    "texto": "Los errores me desmotivan para seguir aprendiendo.",
-    "reverse": true
-  },
-  {
-    "id": 133,
-    "competencia": "Pensamiento analítico",
-    "texto": "Formulo preguntas precisas para comprender mejor.",
-    "reverse": false
-  },
-  {
-    "id": 134,
-    "competencia": "Pensamiento analítico",
-    "texto": "Diferencio hechos de opiniones al evaluar información.",
-    "reverse": false
-  },
-  {
-    "id": 135,
-    "competencia": "Pensamiento analítico",
-    "texto": "Actúo sin analizar y resuelvo los problemas sobre la marcha.",
-    "reverse": true
-  },
-  {
-    "id": 136,
-    "competencia": "Pensamiento analítico",
-    "texto": "Verifico supuestos antes de proponer soluciones.",
-    "reverse": false
-  },
-  {
-    "id": 137,
-    "competencia": "Pensamiento analítico",
-    "texto": "Sustento mis conclusiones en datos objetivos.",
-    "reverse": false
-  },
-  {
-    "id": 138,
-    "competencia": "Pensamiento analítico",
-    "texto": "Divido problemas complejos en partes manejables.",
-    "reverse": false
-  },
-  {
-    "id": 139,
-    "competencia": "Pensamiento analítico",
-    "texto": "Contrasto fuentes antes de decidir.",
-    "reverse": false
-  },
-  {
-    "id": 140,
-    "competencia": "Pensamiento analítico",
-    "texto": "Actúo sin analizar y resuelvo los problemas sobre la marcha.",
-    "reverse": true
-  },
-  {
     "id": 141,
     "competencia": "Pensamiento analítico",
     "texto": "Diferencio hechos de opiniones al evaluar información.",
     "reverse": false
   },
   {
-    "id": 142,
-    "competencia": "Pensamiento analítico",
-    "texto": "Confío más en intuiciones que en datos al decidir.",
+    "id": 67,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Prefiero trabajar aislado y evitar reuniones.",
     "reverse": true
   },
   {
-    "id": 143,
-    "competencia": "Pensamiento analítico",
-    "texto": "Sustento mis conclusiones en datos objetivos.",
+    "id": 84,
+    "competencia": "Orientación a resultados",
+    "texto": "Organizo mis tareas por orden de impacto.",
     "reverse": false
   },
   {
-    "id": 144,
-    "competencia": "Pensamiento analítico",
-    "texto": "Formulo preguntas precisas para comprender mejor.",
+    "id": 188,
+    "competencia": "Gestión de emociones",
+    "texto": "Soy tolerante con la ambigüedad cuando falta información.",
     "reverse": false
   },
   {
-    "id": 145,
-    "competencia": "Pensamiento analítico",
-    "texto": "Explico mi razonamiento de forma estructurada.",
+    "id": 38,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Aprendo de cada proyecto para mejorar el siguiente.",
     "reverse": false
   },
   {
-    "id": 146,
-    "competencia": "Pensamiento analítico",
-    "texto": "Represento la información para entenderla mejor.",
+    "id": 119,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Aplico con rapidez los nuevos conocimientos a mi trabajo.",
     "reverse": false
   },
   {
-    "id": 147,
-    "competencia": "Pensamiento analítico",
-    "texto": "Reviso sesgos propios al analizar situaciones.",
+    "id": 168,
+    "competencia": "Competencia digital",
+    "texto": "Protejo la información con buenas prácticas de seguridad.",
     "reverse": false
   },
   {
-    "id": 148,
-    "competencia": "Pensamiento analítico",
-    "texto": "Sustento mis conclusiones en datos objetivos.",
+    "id": 27,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Trabajo de forma ordenada y metódica.",
+    "reverse": false
+  },
+  {
+    "id": 198,
+    "competencia": "Gestión de emociones",
+    "texto": "Tiendo a responder impulsivamente en conflicto.",
+    "reverse": true
+  },
+  {
+    "id": 40,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Dedico tiempo adecuado a encontrar buenas soluciones.",
+    "reverse": false
+  },
+  {
+    "id": 25,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Aprendo de cada proyecto para mejorar el siguiente.",
     "reverse": false
   },
   {
     "id": 149,
     "competencia": "Pensamiento analítico",
+    "texto": "Represento la información para entenderla mejor.",
+    "reverse": false
+  },
+  {
+    "id": 128,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Mantengo la concentración ignorando distracciones.",
+    "reverse": false
+  },
+  {
+    "id": 193,
+    "competencia": "Gestión de emociones",
+    "texto": "Soy tolerante con la ambigüedad cuando falta información.",
+    "reverse": false
+  },
+  {
+    "id": 143,
+    "competencia": "Pensamiento analítico",
+    "texto": "Divido problemas complejos en partes manejables.",
+    "reverse": false
+  },
+  {
+    "id": 94,
+    "competencia": "Solución de problemas",
+    "texto": "Analizo la causa raíz antes de actuar.",
+    "reverse": false
+  },
+  {
+    "id": 191,
+    "competencia": "Gestión de emociones",
+    "texto": "Me comunico de forma asertiva incluso en desacuerdos.",
+    "reverse": false
+  },
+  {
+    "id": 31,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Trabajo de forma ordenada y metódica.",
+    "reverse": false
+  },
+  {
+    "id": 43,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Me conformo con soluciones mínimas aunque sean mejorables.",
+    "reverse": true
+  },
+  {
+    "id": 126,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Busco feedback para seguir aprendiendo.",
+    "reverse": false
+  },
+  {
+    "id": 4,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Mantengo mis compromisos incluso ante dificultades.",
+    "reverse": false
+  },
+  {
+    "id": 167,
+    "competencia": "Competencia digital",
+    "texto": "Aprendo con rapidez nuevas aplicaciones cuando las necesito.",
+    "reverse": false
+  },
+  {
+    "id": 103,
+    "competencia": "Solución de problemas",
+    "texto": "Comparto soluciones con el equipo para aprender.",
+    "reverse": false
+  },
+  {
+    "id": 101,
+    "competencia": "Solución de problemas",
+    "texto": "Defino un plan de acción y lo sigo.",
+    "reverse": false
+  },
+  {
+    "id": 116,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Aplico con rapidez los nuevos conocimientos a mi trabajo.",
+    "reverse": false
+  },
+  {
+    "id": 26,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Reviso lo entregado para identificar mejoras.",
+    "reverse": false
+  },
+  {
+    "id": 166,
+    "competencia": "Competencia digital",
+    "texto": "Evalúo la fiabilidad de las herramientas digitales que uso.",
+    "reverse": false
+  },
+  {
+    "id": 72,
+    "competencia": "Orientación a resultados",
+    "texto": "Establezco metas claras y realistas en el tiempo.",
+    "reverse": false
+  },
+  {
+    "id": 71,
+    "competencia": "Orientación a resultados",
+    "texto": "Oriento mis acciones al logro del objetivo común.",
+    "reverse": false
+  },
+  {
+    "id": 75,
+    "competencia": "Orientación a resultados",
+    "texto": "Hago seguimiento del avance de los objetivos.",
+    "reverse": false
+  },
+  {
+    "id": 133,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Los errores me desmotivan para seguir aprendiendo.",
+    "reverse": true
+  },
+  {
+    "id": 176,
+    "competencia": "Competencia digital",
+    "texto": "Considero innecesarias las actualizaciones de software.",
+    "reverse": true
+  },
+  {
+    "id": 79,
+    "competencia": "Orientación a resultados",
+    "texto": "Automatizo rutinas que elevan mi productividad.",
+    "reverse": false
+  },
+  {
+    "id": 132,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Evito enfrentar tareas nuevas por incomodidad.",
+    "reverse": true
+  },
+  {
+    "id": 90,
+    "competencia": "Orientación a resultados",
+    "texto": "Cambio de prioridades con frecuencia sin justificación.",
+    "reverse": true
+  },
+  {
+    "id": 190,
+    "competencia": "Gestión de emociones",
+    "texto": "Soy tolerante con la ambigüedad cuando falta información.",
+    "reverse": false
+  },
+  {
+    "id": 180,
+    "competencia": "Gestión de emociones",
+    "texto": "Me responsabilizo de mi impacto emocional en el equipo.",
+    "reverse": false
+  },
+  {
+    "id": 15,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Tomo decisiones con seguridad cuando es necesario.",
+    "reverse": false
+  },
+  {
+    "id": 109,
+    "competencia": "Solución de problemas",
+    "texto": "Me limito a señalar problemas sin plantear soluciones.",
+    "reverse": true
+  },
+  {
+    "id": 100,
+    "competencia": "Solución de problemas",
+    "texto": "Identifico rápidamente a quién involucrar en la solución.",
+    "reverse": false
+  },
+  {
+    "id": 20,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Busco excusas externas cuando algo no sale bien.",
+    "reverse": true
+  },
+  {
+    "id": 184,
+    "competencia": "Gestión de emociones",
+    "texto": "Mantengo la calma bajo presión.",
+    "reverse": false
+  },
+  {
+    "id": 197,
+    "competencia": "Gestión de emociones",
+    "texto": "Me enfado con facilidad si discrepan de mí.",
+    "reverse": true
+  },
+  {
+    "id": 80,
+    "competencia": "Orientación a resultados",
+    "texto": "Adapto el plan sin perder el foco en el resultado.",
+    "reverse": false
+  },
+  {
+    "id": 122,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Mantengo la concentración ignorando distracciones.",
+    "reverse": false
+  },
+  {
+    "id": 106,
+    "competencia": "Solución de problemas",
+    "texto": "Verifico con datos si una solución funciona.",
+    "reverse": false
+  },
+  {
+    "id": 34,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Establezco hábitos diarios que aumentan mi productividad.",
+    "reverse": false
+  },
+  {
+    "id": 131,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Los errores me desmotivan para seguir aprendiendo.",
+    "reverse": true
+  },
+  {
+    "id": 87,
+    "competencia": "Orientación a resultados",
+    "texto": "Abandono tareas si aparecen obstáculos difíciles.",
+    "reverse": true
+  },
+  {
+    "id": 13,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Asumo mis tareas de principio a fin sin necesidad de supervisión.",
+    "reverse": false
+  },
+  {
+    "id": 11,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Prioritizo hacer el trabajo bien antes que hacerlo rápido.",
+    "reverse": false
+  },
+  {
+    "id": 96,
+    "competencia": "Solución de problemas",
+    "texto": "Busco experiencias previas como referencia.",
+    "reverse": false
+  },
+  {
+    "id": 164,
+    "competencia": "Competencia digital",
+    "texto": "Comparto herramientas digitales útiles con mis compañeros.",
+    "reverse": false
+  },
+  {
+    "id": 1,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Asumo mis tareas de principio a fin sin necesidad de supervisión.",
+    "reverse": false
+  },
+  {
+    "id": 117,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Siento curiosidad por ampliar mis conocimientos.",
+    "reverse": false
+  },
+  {
+    "id": 146,
+    "competencia": "Pensamiento analítico",
+    "texto": "Sustento mis conclusiones en datos objetivos.",
+    "reverse": false
+  },
+  {
+    "id": 28,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Mantengo una actitud positiva ante tareas rutinarias.",
+    "reverse": false
+  },
+  {
+    "id": 46,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Trabajar con método me resulta innecesario.",
+    "reverse": true
+  },
+  {
+    "id": 54,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Facilito la comunicación entre miembros del equipo.",
+    "reverse": false
+  },
+  {
+    "id": 179,
+    "competencia": "Gestión de emociones",
+    "texto": "Escucho con empatía antes de responder.",
+    "reverse": false
+  },
+  {
+    "id": 113,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Aprendo de mis errores para mejorar.",
+    "reverse": false
+  },
+  {
+    "id": 161,
+    "competencia": "Competencia digital",
+    "texto": "Mantengo mis dispositivos y software actualizados.",
+    "reverse": false
+  },
+  {
+    "id": 9,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Planifico mi trabajo sin esperar instrucciones constantes.",
+    "reverse": false
+  },
+  {
+    "id": 30,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Reviso lo entregado para identificar mejoras.",
+    "reverse": false
+  },
+  {
+    "id": 158,
+    "competencia": "Competencia digital",
+    "texto": "Mantengo mis dispositivos y software actualizados.",
+    "reverse": false
+  },
+  {
+    "id": 147,
+    "competencia": "Pensamiento analítico",
+    "texto": "Diferencio hechos de opiniones al evaluar información.",
+    "reverse": false
+  },
+  {
+    "id": 159,
+    "competencia": "Competencia digital",
+    "texto": "Comparto herramientas digitales útiles con mis compañeros.",
+    "reverse": false
+  },
+  {
+    "id": 37,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Me propongo metas retadoras pero alcanzables.",
+    "reverse": false
+  },
+  {
+    "id": 99,
+    "competencia": "Solución de problemas",
+    "texto": "Organizo reuniones cuando un problema es complejo.",
+    "reverse": false
+  },
+  {
+    "id": 144,
+    "competencia": "Pensamiento analítico",
+    "texto": "Represento la información para entenderla mejor.",
+    "reverse": false
+  },
+  {
+    "id": 187,
+    "competencia": "Gestión de emociones",
+    "texto": "Mantengo el optimismo ante retos exigentes.",
+    "reverse": false
+  },
+  {
+    "id": 77,
+    "competencia": "Orientación a resultados",
+    "texto": "Adapto el plan sin perder el foco en el resultado.",
+    "reverse": false
+  },
+  {
+    "id": 29,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Dedico tiempo adecuado a encontrar buenas soluciones.",
+    "reverse": false
+  },
+  {
+    "id": 48,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Contribuyo a crear espacios seguros para opinar.",
+    "reverse": false
+  },
+  {
+    "id": 111,
+    "competencia": "Solución de problemas",
+    "texto": "Evito cambiar el enfoque aunque no funcione.",
+    "reverse": true
+  },
+  {
+    "id": 19,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Busco excusas externas cuando algo no sale bien.",
+    "reverse": true
+  },
+  {
+    "id": 200,
+    "competencia": "Gestión de emociones",
+    "texto": "Me bloqueo cuando aumenta la presión.",
+    "reverse": true
+  },
+  {
+    "id": 61,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Propongo iniciativas que benefician al equipo.",
+    "reverse": false
+  },
+  {
+    "id": 6,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Cumplo las normas y procedimientos establecidos en mi trabajo.",
+    "reverse": false
+  },
+  {
+    "id": 185,
+    "competencia": "Gestión de emociones",
+    "texto": "Me comunico de forma asertiva incluso en desacuerdos.",
+    "reverse": false
+  },
+  {
+    "id": 62,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Contribuyo a crear espacios seguros para opinar.",
+    "reverse": false
+  },
+  {
+    "id": 17,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Planifico mi trabajo sin esperar instrucciones constantes.",
+    "reverse": false
+  },
+  {
+    "id": 64,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Valoro las ideas de otros aunque difieran de las mías.",
+    "reverse": false
+  },
+  {
+    "id": 85,
+    "competencia": "Orientación a resultados",
+    "texto": "Me autoexijo estándares altos en el trabajo.",
+    "reverse": false
+  },
+  {
+    "id": 55,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Propongo iniciativas que benefician al equipo.",
+    "reverse": false
+  },
+  {
+    "id": 3,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Cumplo las normas y procedimientos establecidos en mi trabajo.",
+    "reverse": false
+  },
+  {
+    "id": 139,
+    "competencia": "Pensamiento analítico",
+    "texto": "Explico mi razonamiento de forma estructurada.",
+    "reverse": false
+  },
+  {
+    "id": 24,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Documento buenas prácticas para reutilizarlas.",
+    "reverse": false
+  },
+  {
+    "id": 120,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Comparto lo aprendido con el equipo.",
+    "reverse": false
+  },
+  {
+    "id": 44,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Rara vez reviso lo que entrego para aprender de ello.",
+    "reverse": true
+  },
+  {
+    "id": 36,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Trabajo de forma ordenada y metódica.",
+    "reverse": false
+  },
+  {
+    "id": 104,
+    "competencia": "Solución de problemas",
+    "texto": "Identifico rápidamente a quién involucrar en la solución.",
+    "reverse": false
+  },
+  {
+    "id": 160,
+    "competencia": "Competencia digital",
+    "texto": "Soy crítico y realista con las limitaciones de la tecnología.",
+    "reverse": false
+  },
+  {
+    "id": 59,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Valoro las ideas de otros aunque difieran de las mías.",
+    "reverse": false
+  },
+  {
+    "id": 89,
+    "competencia": "Orientación a resultados",
+    "texto": "Abandono tareas si aparecen obstáculos difíciles.",
+    "reverse": true
+  },
+  {
+    "id": 110,
+    "competencia": "Solución de problemas",
+    "texto": "Oculto incidencias para no generar discusiones.",
+    "reverse": true
+  },
+  {
+    "id": 134,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Evito enfrentar tareas nuevas por incomodidad.",
+    "reverse": true
+  },
+  {
+    "id": 114,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Siento curiosidad por ampliar mis conocimientos.",
+    "reverse": false
+  },
+  {
+    "id": 73,
+    "competencia": "Orientación a resultados",
+    "texto": "Mantengo la persistencia hasta alcanzar la meta.",
+    "reverse": false
+  },
+  {
+    "id": 57,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Facilito la comunicación entre miembros del equipo.",
+    "reverse": false
+  },
+  {
+    "id": 173,
+    "competencia": "Competencia digital",
+    "texto": "Automatizo tareas repetitivas con tecnología cuando es posible.",
+    "reverse": false
+  },
+  {
+    "id": 163,
+    "competencia": "Competencia digital",
+    "texto": "Evalúo la fiabilidad de las herramientas digitales que uso.",
+    "reverse": false
+  },
+  {
+    "id": 196,
+    "competencia": "Gestión de emociones",
+    "texto": "Mantengo el optimismo ante retos exigentes.",
+    "reverse": false
+  },
+  {
+    "id": 136,
+    "competencia": "Pensamiento analítico",
+    "texto": "Contrasto fuentes antes de decidir.",
+    "reverse": false
+  },
+  {
+    "id": 172,
+    "competencia": "Competencia digital",
+    "texto": "Automatizo tareas repetitivas con tecnología cuando es posible.",
+    "reverse": false
+  },
+  {
+    "id": 91,
+    "competencia": "Solución de problemas",
+    "texto": "Verifico con datos si una solución funciona.",
+    "reverse": false
+  },
+  {
+    "id": 140,
+    "competencia": "Pensamiento analítico",
     "texto": "Identifico relaciones causales entre variables.",
+    "reverse": false
+  },
+  {
+    "id": 74,
+    "competencia": "Orientación a resultados",
+    "texto": "Hago seguimiento del avance de los objetivos.",
+    "reverse": false
+  },
+  {
+    "id": 183,
+    "competencia": "Gestión de emociones",
+    "texto": "Pongo límites con respeto cuando es necesario.",
+    "reverse": false
+  },
+  {
+    "id": 152,
+    "competencia": "Pensamiento analítico",
+    "texto": "Represento la información para entenderla mejor.",
+    "reverse": false
+  },
+  {
+    "id": 39,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Documento buenas prácticas para reutilizarlas.",
+    "reverse": false
+  },
+  {
+    "id": 177,
+    "competencia": "Competencia digital",
+    "texto": "Trabajo con contraseñas débiles o compartidas.",
+    "reverse": true
+  },
+  {
+    "id": 189,
+    "competencia": "Gestión de emociones",
+    "texto": "Soy tolerante con la ambigüedad cuando falta información.",
+    "reverse": false
+  },
+  {
+    "id": 7,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Asumo mis tareas de principio a fin sin necesidad de supervisión.",
+    "reverse": false
+  },
+  {
+    "id": 49,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Propongo iniciativas que benefician al equipo.",
+    "reverse": false
+  },
+  {
+    "id": 121,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Aprendo de mis errores para mejorar.",
+    "reverse": false
+  },
+  {
+    "id": 169,
+    "competencia": "Competencia digital",
+    "texto": "Soy crítico y realista con las limitaciones de la tecnología.",
+    "reverse": false
+  },
+  {
+    "id": 42,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Trabajar con método me resulta innecesario.",
+    "reverse": true
+  },
+  {
+    "id": 78,
+    "competencia": "Orientación a resultados",
+    "texto": "Divido los objetivos en hitos medibles.",
+    "reverse": false
+  },
+  {
+    "id": 105,
+    "competencia": "Solución de problemas",
+    "texto": "Defino un plan de acción y lo sigo.",
+    "reverse": false
+  },
+  {
+    "id": 65,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Doy por hecho que cada uno resuelva lo suyo sin colaborar.",
+    "reverse": true
+  },
+  {
+    "id": 135,
+    "competencia": "Pensamiento analítico",
+    "texto": "Identifico relaciones causales entre variables.",
+    "reverse": false
+  },
+  {
+    "id": 153,
+    "competencia": "Pensamiento analítico",
+    "texto": "Confío más en intuiciones que en datos al decidir.",
+    "reverse": true
+  },
+  {
+    "id": 76,
+    "competencia": "Orientación a resultados",
+    "texto": "Prevengo retrasos identificando riesgos a tiempo.",
+    "reverse": false
+  },
+  {
+    "id": 18,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Prioritizo hacer el trabajo bien antes que hacerlo rápido.",
+    "reverse": false
+  },
+  {
+    "id": 95,
+    "competencia": "Solución de problemas",
+    "texto": "Evalúo impactos antes de implementar cambios.",
+    "reverse": false
+  },
+  {
+    "id": 174,
+    "competencia": "Competencia digital",
+    "texto": "Exploro nuevos recursos tecnológicos para mejorar mi trabajo.",
+    "reverse": false
+  },
+  {
+    "id": 45,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Rara vez reviso lo que entrego para aprender de ello.",
+    "reverse": true
+  },
+  {
+    "id": 195,
+    "competencia": "Gestión de emociones",
+    "texto": "Soy tolerante con la ambigüedad cuando falta información.",
+    "reverse": false
+  },
+  {
+    "id": 162,
+    "competencia": "Competencia digital",
+    "texto": "Automatizo tareas repetitivas con tecnología cuando es posible.",
+    "reverse": false
+  },
+  {
+    "id": 97,
+    "competencia": "Solución de problemas",
+    "texto": "Defino un plan de acción y lo sigo.",
+    "reverse": false
+  },
+  {
+    "id": 107,
+    "competencia": "Solución de problemas",
+    "texto": "Defino un plan de acción y lo sigo.",
+    "reverse": false
+  },
+  {
+    "id": 16,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Prioritizo hacer el trabajo bien antes que hacerlo rápido.",
+    "reverse": false
+  },
+  {
+    "id": 98,
+    "competencia": "Solución de problemas",
+    "texto": "Evalúo impactos antes de implementar cambios.",
+    "reverse": false
+  },
+  {
+    "id": 47,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Pido y ofrezco ayuda cuando el equipo lo necesita.",
+    "reverse": false
+  },
+  {
+    "id": 186,
+    "competencia": "Gestión de emociones",
+    "texto": "Soy tolerante con la ambigüedad cuando falta información.",
+    "reverse": false
+  },
+  {
+    "id": 155,
+    "competencia": "Pensamiento analítico",
+    "texto": "Actúo sin analizar y resuelvo los problemas sobre la marcha.",
+    "reverse": true
+  },
+  {
+    "id": 115,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Busco feedback para seguir aprendiendo.",
+    "reverse": false
+  },
+  {
+    "id": 56,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Valoro las ideas de otros aunque difieran de las mías.",
+    "reverse": false
+  },
+  {
+    "id": 92,
+    "competencia": "Solución de problemas",
+    "texto": "Identifico rápidamente a quién involucrar en la solución.",
+    "reverse": false
+  },
+  {
+    "id": 81,
+    "competencia": "Orientación a resultados",
+    "texto": "Me autoexijo estándares altos en el trabajo.",
+    "reverse": false
+  },
+  {
+    "id": 108,
+    "competencia": "Solución de problemas",
+    "texto": "Analizo la causa raíz antes de actuar.",
+    "reverse": false
+  },
+  {
+    "id": 151,
+    "competencia": "Pensamiento analítico",
+    "texto": "Identifico relaciones causales entre variables.",
+    "reverse": false
+  },
+  {
+    "id": 118,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Comparto lo aprendido con el equipo.",
+    "reverse": false
+  },
+  {
+    "id": 93,
+    "competencia": "Solución de problemas",
+    "texto": "Identifico rápidamente a quién involucrar en la solución.",
+    "reverse": false
+  },
+  {
+    "id": 14,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Tomo decisiones con seguridad cuando es necesario.",
+    "reverse": false
+  },
+  {
+    "id": 32,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Reviso lo entregado para identificar mejoras.",
     "reverse": false
   },
   {
@@ -900,121 +924,7 @@
     "reverse": false
   },
   {
-    "id": 151,
-    "competencia": "Pensamiento analítico",
-    "texto": "Divido problemas complejos en partes manejables.",
-    "reverse": false
-  },
-  {
-    "id": 152,
-    "competencia": "Pensamiento analítico",
-    "texto": "Confío más en intuiciones que en datos al decidir.",
-    "reverse": true
-  },
-  {
-    "id": 153,
-    "competencia": "Pensamiento analítico",
-    "texto": "Divido problemas complejos en partes manejables.",
-    "reverse": false
-  },
-  {
-    "id": 154,
-    "competencia": "Pensamiento analítico",
-    "texto": "Contrasto fuentes antes de decidir.",
-    "reverse": false
-  },
-  {
-    "id": 155,
-    "competencia": "Competencia digital",
-    "texto": "Exploro nuevos recursos tecnológicos para mejorar mi trabajo.",
-    "reverse": false
-  },
-  {
-    "id": 156,
-    "competencia": "Competencia digital",
-    "texto": "Trabajo con contraseñas débiles o compartidas.",
-    "reverse": true
-  },
-  {
-    "id": 157,
-    "competencia": "Competencia digital",
-    "texto": "Domino las aplicaciones clave de mi puesto.",
-    "reverse": false
-  },
-  {
-    "id": 158,
-    "competencia": "Competencia digital",
-    "texto": "Trabajo con contraseñas débiles o compartidas.",
-    "reverse": true
-  },
-  {
-    "id": 159,
-    "competencia": "Competencia digital",
-    "texto": "Suelo mantener mis dispositivos y software actualizados.",
-    "reverse": false
-  },
-  {
-    "id": 160,
-    "competencia": "Competencia digital",
-    "texto": "Domino las aplicaciones clave de mi puesto.",
-    "reverse": false
-  },
-  {
-    "id": 161,
-    "competencia": "Competencia digital",
-    "texto": "Considero innecesarias las actualizaciones de software.",
-    "reverse": true
-  },
-  {
-    "id": 162,
-    "competencia": "Competencia digital",
-    "texto": "Evito aprender nuevas herramientas esperando a que otros las manejen.",
-    "reverse": true
-  },
-  {
-    "id": 163,
-    "competencia": "Competencia digital",
-    "texto": "Mantengo mis dispositivos y software actualizados.",
-    "reverse": false
-  },
-  {
-    "id": 164,
-    "competencia": "Competencia digital",
-    "texto": "Suele considero crítico y realista con las limitaciones de la tecnología.",
-    "reverse": false
-  },
-  {
     "id": 165,
-    "competencia": "Competencia digital",
-    "texto": "Soy crítico y realista con las limitaciones de la tecnología.",
-    "reverse": false
-  },
-  {
-    "id": 166,
-    "competencia": "Competencia digital",
-    "texto": "Gestiono la información de forma organizada con herramientas digitales.",
-    "reverse": false
-  },
-  {
-    "id": 167,
-    "competencia": "Competencia digital",
-    "texto": "Configuro adecuadamente permisos y accesos en mis herramientas.",
-    "reverse": false
-  },
-  {
-    "id": 168,
-    "competencia": "Competencia digital",
-    "texto": "Automatizo tareas repetitivas con tecnología cuando es posible.",
-    "reverse": false
-  },
-  {
-    "id": 169,
-    "competencia": "Competencia digital",
-    "texto": "Automatizo tareas repetitivas con tecnología cuando es posible.",
-    "reverse": false
-  },
-  {
-    "id": 170,
     "competencia": "Competencia digital",
     "texto": "Aprendo con rapidez nuevas aplicaciones cuando las necesito.",
     "reverse": false
@@ -1022,181 +932,271 @@
   {
     "id": 171,
     "competencia": "Competencia digital",
-    "texto": "Mantengo mis dispositivos y software actualizados.",
-    "reverse": false
-  },
-  {
-    "id": 172,
-    "competencia": "Competencia digital",
     "texto": "Configuro adecuadamente permisos y accesos en mis herramientas.",
     "reverse": false
   },
   {
-    "id": 173,
-    "competencia": "Competencia digital",
-    "texto": "Exploro nuevos recursos tecnológicos para mejorar mi trabajo.",
-    "reverse": false
-  },
-  {
-    "id": 174,
-    "competencia": "Competencia digital",
-    "texto": "Mantengo mis dispositivos y software actualizados.",
-    "reverse": false
-  },
-  {
-    "id": 175,
-    "competencia": "Competencia digital",
-    "texto": "Evalúo la fiabilidad de las herramientas digitales que uso.",
-    "reverse": false
-  },
-  {
-    "id": 176,
-    "competencia": "Competencia digital",
-    "texto": "Evalúo la fiabilidad de las herramientas digitales que uso.",
-    "reverse": false
-  },
-  {
-    "id": 177,
-    "competencia": "Gestión de emociones",
-    "texto": "Me enfado con facilidad si discrepan de mí.",
+    "id": 156,
+    "competencia": "Pensamiento analítico",
+    "texto": "Paso por alto los detalles clave del análisis.",
     "reverse": true
-  },
-  {
-    "id": 178,
-    "competencia": "Gestión de emociones",
-    "texto": "Mantengo el optimismo ante retos exigentes.",
-    "reverse": false
-  },
-  {
-    "id": 179,
-    "competencia": "Gestión de emociones",
-    "texto": "Suele responsabilizo de mi impacto emocional en el equipo.",
-    "reverse": false
-  },
-  {
-    "id": 180,
-    "competencia": "Gestión de emociones",
-    "texto": "Recupero la compostura rápidamente tras un contratiempo.",
-    "reverse": false
   },
   {
     "id": 181,
-    "competencia": "Gestión de emociones",
-    "texto": "Pongo límites con respeto cuando es necesario.",
-    "reverse": false
-  },
-  {
-    "id": 182,
-    "competencia": "Gestión de emociones",
-    "texto": "Suelo mantener la calma bajo presión.",
-    "reverse": false
-  },
-  {
-    "id": 183,
-    "competencia": "Gestión de emociones",
-    "texto": "Suelo mantener el optimismo ante retos exigentes.",
-    "reverse": false
-  },
-  {
-    "id": 184,
-    "competencia": "Gestión de emociones",
-    "texto": "Tiendo a responder impulsivamente en conflicto.",
-    "reverse": true
-  },
-  {
-    "id": 185,
-    "competencia": "Gestión de emociones",
-    "texto": "Recupero la compostura rápidamente tras un contratiempo.",
-    "reverse": false
-  },
-  {
-    "id": 186,
-    "competencia": "Gestión de emociones",
-    "texto": "Pierdo la calma ante comentarios hirientes.",
-    "reverse": true
-  },
-  {
-    "id": 187,
-    "competencia": "Gestión de emociones",
-    "texto": "Suele responsabilizo de mi impacto emocional en el equipo.",
-    "reverse": false
-  },
-  {
-    "id": 188,
-    "competencia": "Gestión de emociones",
-    "texto": "Me responsabilizo de mi impacto emocional en el equipo.",
-    "reverse": false
-  },
-  {
-    "id": 189,
-    "competencia": "Gestión de emociones",
-    "texto": "Me responsabilizo de mi impacto emocional en el equipo.",
-    "reverse": false
-  },
-  {
-    "id": 190,
     "competencia": "Gestión de emociones",
     "texto": "Escucho con empatía antes de responder.",
     "reverse": false
   },
   {
-    "id": 191,
-    "competencia": "Gestión de emociones",
-    "texto": "Suele comunico de forma asertiva incluso en desacuerdos.",
+    "id": 2,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Me responsabilizo de mis errores y actúo para corregirlos.",
+    "reverse": false
+  },
+  {
+    "id": 157,
+    "competencia": "Competencia digital",
+    "texto": "Aprendo con rapidez nuevas aplicaciones cuando las necesito.",
+    "reverse": false
+  },
+  {
+    "id": 33,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Planifico pequeñas mejoras continuas en mi trabajo.",
     "reverse": false
   },
   {
     "id": 192,
     "competencia": "Gestión de emociones",
-    "texto": "Pongo límites con respeto cuando es necesario.",
+    "texto": "Mantengo el optimismo ante retos exigentes.",
     "reverse": false
   },
   {
-    "id": 193,
-    "competencia": "Gestión de emociones",
-    "texto": "Me bloqueo cuando aumenta la presión.",
+    "id": 58,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Propongo iniciativas que benefician al equipo.",
+    "reverse": false
+  },
+  {
+    "id": 170,
+    "competencia": "Competencia digital",
+    "texto": "Comparto herramientas digitales útiles con mis compañeros.",
+    "reverse": false
+  },
+  {
+    "id": 178,
+    "competencia": "Competencia digital",
+    "texto": "Almaceno información sensible sin medidas de seguridad.",
     "reverse": true
+  },
+  {
+    "id": 125,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Me motivo con objetivos de desarrollo claros.",
+    "reverse": false
+  },
+  {
+    "id": 148,
+    "competencia": "Pensamiento analítico",
+    "texto": "Formulo preguntas precisas para comprender mejor.",
+    "reverse": false
+  },
+  {
+    "id": 66,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Evito pedir ayuda aunque la necesite.",
+    "reverse": true
+  },
+  {
+    "id": 8,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Mantengo mis compromisos incluso ante dificultades.",
+    "reverse": false
   },
   {
     "id": 194,
     "competencia": "Gestión de emociones",
-    "texto": "Suele considero tolerante con la ambigüedad cuando falta información.",
+    "texto": "Acepto críticas constructivas sin tomarlo como algo personal.",
     "reverse": false
   },
   {
-    "id": 195,
-    "competencia": "Gestión de emociones",
-    "texto": "Soy tolerante con la ambigüedad cuando falta información.",
+    "id": 127,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Mantengo la concentración ignorando distracciones.",
     "reverse": false
   },
   {
-    "id": 196,
+    "id": 124,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Mantengo la concentración ignorando distracciones.",
+    "reverse": false
+  },
+  {
+    "id": 175,
+    "competencia": "Competencia digital",
+    "texto": "Evito aprender nuevas herramientas esperando a que otros las manejen.",
+    "reverse": true
+  },
+  {
+    "id": 137,
+    "competencia": "Pensamiento analítico",
+    "texto": "Verifico supuestos antes de proponer soluciones.",
+    "reverse": false
+  },
+  {
+    "id": 35,
+    "competencia": "Calidad y mejora continua",
+    "texto": "Establezco hábitos diarios que aumentan mi productividad.",
+    "reverse": false
+  },
+  {
+    "id": 138,
+    "competencia": "Pensamiento analítico",
+    "texto": "Divido problemas complejos en partes manejables.",
+    "reverse": false
+  },
+  {
+    "id": 142,
+    "competencia": "Pensamiento analítico",
+    "texto": "Identifico relaciones causales entre variables.",
+    "reverse": false
+  },
+  {
+    "id": 88,
+    "competencia": "Orientación a resultados",
+    "texto": "Considero que los plazos son meramente orientativos.",
+    "reverse": true
+  },
+  {
+    "id": 182,
     "competencia": "Gestión de emociones",
     "texto": "Gestiono el estrés para que no afecte a mi rendimiento.",
     "reverse": false
   },
   {
-    "id": 197,
-    "competencia": "Gestión de emociones",
-    "texto": "Adapto mi respuesta emocional a cada situación.",
+    "id": 82,
+    "competencia": "Orientación a resultados",
+    "texto": "Hago seguimiento del avance de los objetivos.",
     "reverse": false
   },
   {
-    "id": 198,
-    "competencia": "Gestión de emociones",
-    "texto": "Me enfado con facilidad si discrepan de mí.",
+    "id": 154,
+    "competencia": "Pensamiento analítico",
+    "texto": "Actúo sin analizar y resuelvo los problemas sobre la marcha.",
     "reverse": true
+  },
+  {
+    "id": 22,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Evito tomar decisiones por miedo a equivocarme.",
+    "reverse": true
+  },
+  {
+    "id": 60,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Propongo iniciativas que benefician al equipo.",
+    "reverse": false
+  },
+  {
+    "id": 145,
+    "competencia": "Pensamiento analítico",
+    "texto": "Represento la información para entenderla mejor.",
+    "reverse": false
+  },
+  {
+    "id": 69,
+    "competencia": "Orientación a resultados",
+    "texto": "Divido los objetivos en hitos medibles.",
+    "reverse": false
+  },
+  {
+    "id": 50,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Valoro las ideas de otros aunque difieran de las mías.",
+    "reverse": false
+  },
+  {
+    "id": 5,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Me responsabilizo de mis errores y actúo para corregirlos.",
+    "reverse": false
+  },
+  {
+    "id": 52,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Reconozco públicamente el buen trabajo de los demás.",
+    "reverse": false
   },
   {
     "id": 199,
     "competencia": "Gestión de emociones",
-    "texto": "Suele comunico de forma asertiva incluso en desacuerdos.",
+    "texto": "Pierdo la calma ante comentarios hirientes.",
+    "reverse": true
+  },
+  {
+    "id": 51,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Contribuyo a crear espacios seguros para opinar.",
     "reverse": false
   },
   {
-    "id": 200,
-    "competencia": "Gestión de emociones",
-    "texto": "Acepto críticas constructivas sin tomarlo como algo personal.",
+    "id": 21,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Necesito que me supervisen constantemente para avanzar.",
+    "reverse": true
+  },
+  {
+    "id": 129,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Comparto lo aprendido con el equipo.",
+    "reverse": false
+  },
+  {
+    "id": 12,
+    "competencia": "Responsabilidad y autonomía",
+    "texto": "Prioritizo hacer el trabajo bien antes que hacerlo rápido.",
+    "reverse": false
+  },
+  {
+    "id": 102,
+    "competencia": "Solución de problemas",
+    "texto": "Comparto soluciones con el equipo para aprender.",
+    "reverse": false
+  },
+  {
+    "id": 68,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Me molesta que cuestionen mis ideas en el equipo.",
+    "reverse": true
+  },
+  {
+    "id": 83,
+    "competencia": "Orientación a resultados",
+    "texto": "Cumplir los plazos es una prioridad para mí.",
+    "reverse": false
+  },
+  {
+    "id": 53,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Escucho activamente a mis compañeros en reuniones.",
+    "reverse": false
+  },
+  {
+    "id": 63,
+    "competencia": "Colaboración y cooperación",
+    "texto": "Comparto información relevante a tiempo con el equipo.",
+    "reverse": false
+  },
+  {
+    "id": 130,
+    "competencia": "Capacidad de aprendizaje",
+    "texto": "Aprendo de mis errores para mejorar.",
+    "reverse": false
+  },
+  {
+    "id": 70,
+    "competencia": "Orientación a resultados",
+    "texto": "Automatizo rutinas que elevan mi productividad.",
     "reverse": false
   }
 ]
