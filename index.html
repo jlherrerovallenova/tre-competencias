@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cuestionario de Competencias (200 preguntas)</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Cuestionario de Competencias</h1>
+    <p>200 preguntas · 4 opciones · sin límite de tiempo · progreso automático</p>
+  </header>
+
+  <main id="app" class="container">
+    <section id="intro" class="card">
+      <h2>Instrucciones</h2>
+      <ul>
+        <li>Responde con: <strong>Muy frecuentemente</strong>, <strong>Frecuentemente</strong>, <strong>Algunas veces</strong> o <strong>Raras veces</strong>.</li>
+        <li>Puedes salir y volver más tarde: el progreso se guarda automáticamente en este dispositivo.</li>
+        <li>También puedes <strong>exportar</strong> tu progreso a un archivo y <strong>cargarlo</strong> después, incluso en otro dispositivo.</li>
+      </ul>
+      <div class="actions">
+        <button id="btnStart">Comenzar o continuar</button>
+        <button id="btnReset" class="secondary">Reiniciar</button>
+      </div>
+      <div class="actions">
+        <button id="btnExport" class="secondary">Exportar progreso</button>
+        <label for="importFile" class="btn-like">Importar progreso</label>
+        <input type="file" id="importFile" accept="application/json" style="display:none">
+      </div>
+      <p id="saveInfo" class="muted"></p>
+    </section>
+
+    <section id="questionView" class="hidden">
+      <div class="nav-top">
+        <button id="btnPrev" class="secondary">Anterior</button>
+        <div id="progressBar" class="progress"></div>
+        <button id="btnNext" class="secondary">Siguiente</button>
+      </div>
+
+      <div class="question card">
+        <div class="q-meta">
+          <span id="qIndex"></span>
+          <span id="qCompetence" class="tag"></span>
+        </div>
+        <p id="qText" class="q-text"></p>
+        <div class="options">
+          <button class="opt" data-value="4">Muy frecuentemente</button>
+          <button class="opt" data-value="3">Frecuentemente</button>
+          <button class="opt" data-value="2">Algunas veces</button>
+          <button class="opt" data-value="1">Raras veces</button>
+        </div>
+      </div>
+
+      <div class="grid">
+        <div class="card">
+          <h3>Navegación rápida</h3>
+          <div id="gridNav" class="grid-nav"></div>
+        </div>
+
+        <div class="card">
+          <h3>Acciones</h3>
+          <button id="btnFinish">Finalizar y ver resumen</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="summaryView" class="hidden card">
+      <h2>Resumen</h2>
+      <p>Este resumen es orientativo. Para una interpretación formal, siga las pautas de la organización.</p>
+      <div id="summary"></div>
+      <div class="actions">
+        <button id="btnBack">Volver al cuestionario</button>
+        <button id="btnExport2" class="secondary">Exportar progreso</button>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <small>Versión local · Último guardado: <span id="footerSaved">—</span></small>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
